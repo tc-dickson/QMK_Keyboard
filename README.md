@@ -1,7 +1,7 @@
 # QMK Keyboard
 A custom-built mechanical keyboard, programmed using [QMK firmware](https://qmk.fm/).
 
-![Split keyboard](media/keyboard.jpg)
+![Split Keyboard](./media/keyboard.jpg)
 
 ## Overview
 After my hands started experiencing irritation after repeated movements I found that a more ergonomic keyboard could help me. I was drawn to the ergonomics and form-factor of a small split-keyboard. The customizability of both hardware (with hot-swappable mechanical switches and microcontroller) and firmware (with the fully programmable nature of QMK). What started as the beginnings of hand pain ended with a superb melding of electromechanical design.

@@ -23,5 +23,5 @@ After my hands started experiencing irritation after repeated movements I found 
 ## What I Learned
 - How to use an existing embedded firmware solution to customize my hardware layout
 - Creating a functional design based upon initial requirements
-- Better understandong of concepts of and interactions between hardware, firmware, and software
+- Better understanding of concepts of and interactions between hardware, firmware, and software
 - Role of client preference (in this case--my own) in engineering design
